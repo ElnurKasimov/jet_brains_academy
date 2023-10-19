@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-17T12:59:10" hostname="DESKTOP-4UFU5CK" time="2.097">
+<testsuite name="NumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-19T20:57:40" hostname="DESKTOP-LDRFUTJ" time="5.306">
   <properties/>
-  <testcase name="start" classname="NumbersTest" time="2.097"/>
+  <testcase name="start" classname="NumbersTest" time="5.306"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Welcome to Amazing Numbers!
@@ -10,9 +10,9 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -23,10 +23,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > -126
+- enter 0 to exit
+Enter a request: > -37
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -38,10 +38,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > -56
+- enter 0 to exit
+Enter a request: > -55
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -53,10 +53,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > -101
+- enter 0 to exit
+Enter a request: > -117
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -68,10 +68,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > -89
+- enter 0 to exit
+Enter a request: > -16
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -83,10 +83,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > -47
+- enter 0 to exit
+Enter a request: > -80
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -98,10 +98,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 67 -5781
+- enter 0 to exit
+Enter a request: > 19718 -10434
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -113,10 +113,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 28771 -2276
+- enter 0 to exit
+Enter a request: > 31078 -9233
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -128,10 +128,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 6340 -28726
+- enter 0 to exit
+Enter a request: > 16867 -17464
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -143,10 +143,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 923 -7110
+- enter 0 to exit
+Enter a request: > 26130 -32131
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -158,10 +158,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 29789 -14672
+- enter 0 to exit
+Enter a request: > 25885 -6064
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -173,10 +173,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 27537 -12709
+- enter 0 to exit
+Enter a request: > 19940 -28234
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -188,10 +188,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 12558 -21134
+- enter 0 to exit
+Enter a request: > 11036 -11122
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -203,10 +203,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 14425 -15048
+- enter 0 to exit
+Enter a request: > 3822 -6262
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -218,10 +218,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 25401 -15430
+- enter 0 to exit
+Enter a request: > 3573 -1709
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -233,10 +233,10 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 6291 -19797
+- enter 0 to exit
+Enter a request: > 28593 -16312
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -248,221 +248,293 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 1
 properties of 1
+square : true
+jumping : true
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : true
 palindromic : true
 Enter a request: > 2
 properties of 2
+square : false
+jumping : true
 even : true
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : false
 palindromic : true
 Enter a request: > 3
 properties of 3
+square : false
+jumping : true
 even : false
 duck : false
 gapful : false
+sunny : true
 buzz : false
 spy : true
 odd : true
 palindromic : true
 Enter a request: > 4
 properties of 4
+square : true
+jumping : true
 even : true
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : false
 palindromic : true
 Enter a request: > 5
 properties of 5
+square : false
+jumping : true
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : true
 palindromic : true
 Enter a request: > 6
 properties of 6
+square : false
+jumping : true
 even : true
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : false
 palindromic : true
 Enter a request: > 7
 properties of 7
+square : false
+jumping : true
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : true
 spy : true
 odd : true
 palindromic : true
 Enter a request: > 8
 properties of 8
+square : false
+jumping : true
 even : true
 duck : false
 gapful : false
+sunny : true
 buzz : false
 spy : true
 odd : false
 palindromic : true
 Enter a request: > 9
 properties of 9
+square : true
+jumping : true
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : true
 odd : true
 palindromic : true
 Enter a request: > 10
 properties of 10
+square : false
+jumping : true
 even : true
 duck : true
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : false
 palindromic : false
 Enter a request: > 11
 properties of 11
+square : false
+jumping : false
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : true
 palindromic : true
 Enter a request: > 12
 properties of 12
+square : false
+jumping : true
 even : true
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : false
 palindromic : false
 Enter a request: > 13
 properties of 13
+square : false
+jumping : false
 even : false
 duck : false
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : true
 palindromic : false
 Enter a request: > 14
 properties of 14
+square : false
+jumping : false
 even : true
 duck : false
 gapful : false
+sunny : false
 buzz : true
 spy : false
 odd : false
 palindromic : false
-Enter a request: > 221004341111491336
-properties of 221004341111491336
+Enter a request: > 3877921696202796756
+properties of 3877921696202796756
+square : false
+jumping : false
 even : true
 duck : true
 gapful : false
-buzz : true
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 6563824571836600934
-properties of 6563824571836600934
-even : true
-duck : true
-gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : false
 palindromic : false
-Enter a request: > 898877087924899552
-properties of 898877087924899552
+Enter a request: > 6239419989308140542
+properties of 6239419989308140542
+square : false
+jumping : false
 even : true
 duck : true
 gapful : false
-buzz : true
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 4453691765004166656
-properties of 4453691765004166656
-even : true
-duck : true
-gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : false
 palindromic : false
-Enter a request: > 6411227263493536970
-properties of 6411227263493536970
-even : true
-duck : true
-gapful : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 7521301132042582386
-properties of 7521301132042582386
-even : true
-duck : true
-gapful : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 9215171201294185301
-properties of 9215171201294185301
+Enter a request: > 2033261464600546451
+properties of 2033261464600546451
+square : false
+jumping : false
 even : false
 duck : true
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : true
 palindromic : false
-Enter a request: > 2315889212166926507
-properties of 2315889212166926507
+Enter a request: > 5998791549776068760
+properties of 5998791549776068760
+square : false
+jumping : false
+even : true
+duck : true
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 584461089254038657
+properties of 584461089254038657
+square : false
+jumping : false
 even : false
 duck : true
 gapful : false
+sunny : false
 buzz : true
 spy : false
 odd : true
 palindromic : false
-Enter a request: > 3728513646032753479
-properties of 3728513646032753479
+Enter a request: > 5454372035100560714
+properties of 5454372035100560714
+square : false
+jumping : false
+even : true
+duck : true
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 4180448699107905415
+properties of 4180448699107905415
+square : false
+jumping : false
 even : false
 duck : true
 gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : true
 palindromic : false
-Enter a request: > 836131395682923793
-properties of 836131395682923793
-even : false
-duck : false
+Enter a request: > 4322258535431601416
+properties of 4322258535431601416
+square : false
+jumping : false
+even : true
+duck : true
 gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 4436127470047658175
+properties of 4436127470047658175
+square : false
+jumping : false
+even : false
+duck : true
+gapful : true
+sunny : false
+buzz : true
+spy : false
+odd : true
+palindromic : false
+Enter a request: > 9011727592287087041
+properties of 9011727592287087041
+square : false
+jumping : false
+even : false
+duck : true
+gapful : false
+sunny : false
 buzz : false
 spy : false
 odd : true
@@ -477,25 +549,25 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 1 15
-1 is spy, odd, palindromic
-2 is even, spy, palindromic
-3 is spy, odd, palindromic
-4 is even, spy, palindromic
-5 is spy, odd, palindromic
-6 is even, spy, palindromic
-7 is buzz, spy, odd, palindromic
-8 is even, spy, palindromic
-9 is spy, odd, palindromic
-10 is even, duck
+1 is square, jumping, spy, odd, palindromic
+2 is jumping, even, spy, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+4 is square, jumping, even, spy, palindromic
+5 is jumping, spy, odd, palindromic
+6 is jumping, even, spy, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+8 is jumping, even, sunny, spy, palindromic
+9 is square, jumping, spy, odd, palindromic
+10 is jumping, even, duck
 11 is odd, palindromic
-12 is even
+12 is jumping, even
 13 is odd
 14 is even, buzz
-15 is odd
+15 is sunny, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -506,18 +578,16 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 7086073576437362000 8
-7086073576437362000 is even, duck
-7086073576437362001 is duck, odd
-7086073576437362002 is even, duck
-7086073576437362003 is duck, buzz, odd
-7086073576437362004 is even, duck
-7086073576437362005 is duck, odd
-7086073576437362006 is even, duck
-7086073576437362007 is duck, buzz, odd
+- enter 0 to exit
+Enter a request: > 329660735589846947 6
+329660735589846947 is duck, buzz, odd
+329660735589846948 is even, duck, buzz
+329660735589846949 is duck, odd
+329660735589846950 is even, duck
+329660735589846951 is duck, odd
+329660735589846952 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -528,26 +598,17 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 5546998756094582350 16
-5546998756094582350 is even, duck, gapful
-5546998756094582351 is duck, odd
-5546998756094582352 is even, duck
-5546998756094582353 is duck, buzz, odd
-5546998756094582354 is even, duck
-5546998756094582355 is duck, odd
-5546998756094582356 is even, duck
-5546998756094582357 is duck, buzz, odd
-5546998756094582358 is even, duck
-5546998756094582359 is duck, gapful, odd
-5546998756094582360 is even, duck, buzz
-5546998756094582361 is duck, odd
-5546998756094582362 is even, duck
-5546998756094582363 is duck, odd
-5546998756094582364 is even, duck
-5546998756094582365 is duck, odd
+- enter 0 to exit
+Enter a request: > 6728152737536711760 7
+6728152737536711760 is even, duck, gapful
+6728152737536711761 is buzz, odd
+6728152737536711762 is even
+6728152737536711763 is odd
+6728152737536711764 is even
+6728152737536711765 is odd
+6728152737536711766 is even
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -558,15 +619,22 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 4842237102766414064 5
-4842237102766414064 is even, duck, buzz
-4842237102766414065 is duck, gapful, odd
-4842237102766414066 is even, duck
-4842237102766414067 is duck, buzz, odd
-4842237102766414068 is even, duck
+- enter 0 to exit
+Enter a request: > 1792961032204312813 12
+1792961032204312813 is duck, odd
+1792961032204312814 is even, duck
+1792961032204312815 is duck, gapful, odd
+1792961032204312816 is even, duck, gapful
+1792961032204312817 is duck, gapful, buzz, odd
+1792961032204312818 is even, duck
+1792961032204312819 is duck, odd
+1792961032204312820 is even, duck, gapful
+1792961032204312821 is duck, odd
+1792961032204312822 is even, duck
+1792961032204312823 is duck, odd
+1792961032204312824 is even, duck, gapful, buzz
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -577,21 +645,16 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 7987425544309944300 11
-7987425544309944300 is even, duck
-7987425544309944301 is duck, odd
-7987425544309944302 is even, duck
-7987425544309944303 is duck, odd
-7987425544309944304 is even, duck
-7987425544309944305 is duck, odd
-7987425544309944306 is even, duck, buzz
-7987425544309944307 is duck, buzz, odd
-7987425544309944308 is even, duck
-7987425544309944309 is duck, odd
-7987425544309944310 is even, duck
+- enter 0 to exit
+Enter a request: > 2278851887878491228 6
+2278851887878491228 is even
+2278851887878491229 is odd
+2278851887878491230 is even, duck
+2278851887878491231 is odd
+2278851887878491232 is even
+2278851887878491233 is buzz, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -602,20 +665,27 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 3578138992309465607 10
-3578138992309465607 is duck, buzz, odd
-3578138992309465608 is even, duck
-3578138992309465609 is duck, odd
-3578138992309465610 is even, duck
-3578138992309465611 is duck, odd
-3578138992309465612 is even, duck, buzz
-3578138992309465613 is duck, odd
-3578138992309465614 is even, duck
-3578138992309465615 is duck, odd
-3578138992309465616 is even, duck
+- enter 0 to exit
+Enter a request: > 3515021463321925829 17
+3515021463321925829 is duck, odd
+3515021463321925830 is even, duck, gapful, buzz
+3515021463321925831 is duck, odd
+3515021463321925832 is even, duck
+3515021463321925833 is duck, odd
+3515021463321925834 is even, duck
+3515021463321925835 is duck, odd
+3515021463321925836 is even, duck
+3515021463321925837 is duck, buzz, odd
+3515021463321925838 is even, duck
+3515021463321925839 is duck, odd
+3515021463321925840 is even, duck
+3515021463321925841 is duck, odd
+3515021463321925842 is even, duck
+3515021463321925843 is duck, odd
+3515021463321925844 is even, duck, buzz
+3515021463321925845 is duck, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -626,28 +696,23 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 2952278240331861444 18
-2952278240331861444 is even, duck
-2952278240331861445 is duck, odd
-2952278240331861446 is even, duck
-2952278240331861447 is duck, buzz, odd
-2952278240331861448 is even, duck, gapful, buzz
-2952278240331861449 is duck, gapful, odd
-2952278240331861450 is even, duck
-2952278240331861451 is duck, odd
-2952278240331861452 is even, duck, gapful
-2952278240331861453 is duck, odd
-2952278240331861454 is even, duck
-2952278240331861455 is duck, buzz, odd
-2952278240331861456 is even, duck
-2952278240331861457 is duck, buzz, odd
-2952278240331861458 is even, duck
-2952278240331861459 is duck, odd
-2952278240331861460 is even, duck, gapful
-2952278240331861461 is duck, odd
+- enter 0 to exit
+Enter a request: > 1286173159493829578 13
+1286173159493829578 is even
+1286173159493829579 is buzz, odd
+1286173159493829580 is even, duck, gapful
+1286173159493829581 is odd
+1286173159493829582 is even
+1286173159493829583 is odd
+1286173159493829584 is even
+1286173159493829585 is gapful, odd
+1286173159493829586 is even, buzz
+1286173159493829587 is buzz, odd
+1286173159493829588 is even, gapful
+1286173159493829589 is odd
+1286173159493829590 is even, duck, gapful
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -658,25 +723,28 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 6462845337513550847 15
-6462845337513550847 is duck, buzz, odd
-6462845337513550848 is even, duck
-6462845337513550849 is duck, odd
-6462845337513550850 is even, duck
-6462845337513550851 is duck, odd
-6462845337513550852 is even, duck
-6462845337513550853 is duck, buzz, odd
-6462845337513550854 is even, duck
-6462845337513550855 is duck, odd
-6462845337513550856 is even, duck
-6462845337513550857 is duck, buzz, odd
-6462845337513550858 is even, duck
-6462845337513550859 is duck, odd
-6462845337513550860 is even, duck, gapful, buzz
-6462845337513550861 is duck, odd
+- enter 0 to exit
+Enter a request: > 5237028906402488983 18
+5237028906402488983 is duck, odd
+5237028906402488984 is even, duck
+5237028906402488985 is duck, odd
+5237028906402488986 is even, duck, buzz
+5237028906402488987 is duck, buzz, odd
+5237028906402488988 is even, duck
+5237028906402488989 is duck, odd
+5237028906402488990 is even, duck
+5237028906402488991 is duck, odd
+5237028906402488992 is even, duck
+5237028906402488993 is duck, buzz, odd
+5237028906402488994 is even, duck
+5237028906402488995 is duck, odd
+5237028906402488996 is even, duck
+5237028906402488997 is duck, buzz, odd
+5237028906402488998 is even, duck
+5237028906402488999 is duck, odd
+5237028906402489000 is even, duck, gapful, buzz
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -687,15 +755,25 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 8954001401140594303 5
-8954001401140594303 is duck, odd
-8954001401140594304 is even, duck
-8954001401140594305 is duck, odd
-8954001401140594306 is even, duck
-8954001401140594307 is duck, buzz, odd
+- enter 0 to exit
+Enter a request: > 6940863901822971714 15
+6940863901822971714 is even, duck
+6940863901822971715 is duck, buzz, odd
+6940863901822971716 is even, duck
+6940863901822971717 is duck, buzz, odd
+6940863901822971718 is even, duck
+6940863901822971719 is duck, odd
+6940863901822971720 is even, duck, gapful
+6940863901822971721 is duck, odd
+6940863901822971722 is even, duck, buzz
+6940863901822971723 is duck, odd
+6940863901822971724 is even, duck
+6940863901822971725 is duck, odd
+6940863901822971726 is even, duck
+6940863901822971727 is duck, buzz, odd
+6940863901822971728 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -706,13 +784,25 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 1434756687015587770 3
-1434756687015587770 is even, duck, gapful
-1434756687015587771 is duck, gapful, odd
-1434756687015587772 is even, duck, gapful
+- enter 0 to exit
+Enter a request: > 4934836387752597901 15
+4934836387752597901 is duck, odd
+4934836387752597902 is even, duck
+4934836387752597903 is duck, gapful, odd
+4934836387752597904 is even, duck
+4934836387752597905 is duck, odd
+4934836387752597906 is even, duck
+4934836387752597907 is duck, buzz, odd
+4934836387752597908 is even, duck
+4934836387752597909 is duck, odd
+4934836387752597910 is even, duck
+4934836387752597911 is odd
+4934836387752597912 is even
+4934836387752597913 is odd
+4934836387752597914 is even, buzz
+4934836387752597915 is odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -723,28 +813,15 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 1361637074570420681 18
-1361637074570420681 is duck, gapful, odd
-1361637074570420682 is even, duck
-1361637074570420683 is duck, buzz, odd
-1361637074570420684 is even, duck
-1361637074570420685 is duck, gapful, odd
-1361637074570420686 is even, duck
-1361637074570420687 is duck, buzz, odd
-1361637074570420688 is even, duck
-1361637074570420689 is duck, odd
-1361637074570420690 is even, duck, gapful, buzz
-1361637074570420691 is duck, odd
-1361637074570420692 is even, duck
-1361637074570420693 is duck, odd
-1361637074570420694 is even, duck
-1361637074570420695 is duck, odd
-1361637074570420696 is even, duck
-1361637074570420697 is duck, buzz, odd
-1361637074570420698 is even, duck
+- enter 0 to exit
+Enter a request: > 2835972686420732514 5
+2835972686420732514 is even, duck
+2835972686420732515 is duck, odd
+2835972686420732516 is even, duck, buzz
+2835972686420732517 is duck, buzz, odd
+2835972686420732518 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -755,12 +832,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 1 10 May
 The property [MAY] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -771,12 +848,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 40 2 bay
 The property [BAY] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -787,12 +864,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 37 4 8
 The property [8] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -803,12 +880,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 67 2 day
 The property [DAY] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -819,12 +896,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 2 54 Prime
 The property [PRIME] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -835,12 +912,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 6 8 ...
 The property [...] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -851,12 +928,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 5 9 none
 The property [NONE] is wrong.
-Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY]
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -867,84 +944,117 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
+- enter 0 to exit
 Enter a request: > 1 10 BUZZ
-7 is buzz, spy, odd, palindromic
+7 is jumping, buzz, spy, odd, palindromic
 14 is even, buzz
 17 is buzz, odd
-21 is buzz, odd
+21 is jumping, buzz, odd
 27 is buzz, odd
 28 is even, buzz
-35 is buzz, odd
+35 is sunny, buzz, odd
 37 is buzz, odd
 42 is even, buzz
 47 is buzz, odd
 Enter a request: > 1 10 DUCK
-10 is even, duck
+10 is jumping, even, duck
 20 is even, duck
 30 is even, duck
 40 is even, duck
 50 is even, duck
 60 is even, duck
 70 is even, duck, buzz
-80 is even, duck
+80 is even, duck, sunny
 90 is even, duck
-100 is even, duck, gapful
+100 is square, even, duck, gapful
 Enter a request: > 1 10 PALINDROMIC
-1 is spy, odd, palindromic
-2 is even, spy, palindromic
-3 is spy, odd, palindromic
-4 is even, spy, palindromic
-5 is spy, odd, palindromic
-6 is even, spy, palindromic
-7 is buzz, spy, odd, palindromic
-8 is even, spy, palindromic
-9 is spy, odd, palindromic
+1 is square, jumping, spy, odd, palindromic
+2 is jumping, even, spy, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+4 is square, jumping, even, spy, palindromic
+5 is jumping, spy, odd, palindromic
+6 is jumping, even, spy, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+8 is jumping, even, sunny, spy, palindromic
+9 is square, jumping, spy, odd, palindromic
 11 is odd, palindromic
 Enter a request: > 1 10 GAPFUL
-100 is even, duck, gapful
+100 is square, even, duck, gapful
 105 is duck, gapful, buzz, odd
 108 is even, duck, gapful
 110 is even, duck, gapful
-120 is even, duck, gapful
-121 is gapful, odd, palindromic
+120 is even, duck, gapful, sunny
+121 is square, jumping, gapful, odd, palindromic
 130 is even, duck, gapful
 132 is even, gapful, spy
 135 is gapful, odd
 140 is even, duck, gapful, buzz
 Enter a request: > 1 10 SPY
-1 is spy, odd, palindromic
-2 is even, spy, palindromic
-3 is spy, odd, palindromic
-4 is even, spy, palindromic
-5 is spy, odd, palindromic
-6 is even, spy, palindromic
-7 is buzz, spy, odd, palindromic
-8 is even, spy, palindromic
-9 is spy, odd, palindromic
+1 is square, jumping, spy, odd, palindromic
+2 is jumping, even, spy, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+4 is square, jumping, even, spy, palindromic
+5 is jumping, spy, odd, palindromic
+6 is jumping, even, spy, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+8 is jumping, even, sunny, spy, palindromic
+9 is square, jumping, spy, odd, palindromic
 22 is even, spy, palindromic
+Enter a request: > 1 10 SQUARE
+1 is square, jumping, spy, odd, palindromic
+4 is square, jumping, even, spy, palindromic
+9 is square, jumping, spy, odd, palindromic
+16 is square, even
+25 is square, odd
+36 is square, even
+49 is square, buzz, odd
+64 is square, even
+81 is square, odd
+100 is square, even, duck, gapful
+Enter a request: > 1 10 SUNNY
+3 is jumping, sunny, spy, odd, palindromic
+8 is jumping, even, sunny, spy, palindromic
+15 is sunny, odd
+24 is even, sunny
+35 is sunny, buzz, odd
+48 is even, sunny
+63 is sunny, buzz, odd
+80 is even, duck, sunny
+99 is sunny, odd, palindromic
+120 is even, duck, gapful, sunny
+Enter a request: > 1 10 JUMPING
+1 is square, jumping, spy, odd, palindromic
+2 is jumping, even, spy, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+4 is square, jumping, even, spy, palindromic
+5 is jumping, spy, odd, palindromic
+6 is jumping, even, spy, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+8 is jumping, even, sunny, spy, palindromic
+9 is square, jumping, spy, odd, palindromic
+10 is jumping, even, duck
 Enter a request: > 1 10 EVEN
-2 is even, spy, palindromic
-4 is even, spy, palindromic
-6 is even, spy, palindromic
-8 is even, spy, palindromic
-10 is even, duck
-12 is even
+2 is jumping, even, spy, palindromic
+4 is square, jumping, even, spy, palindromic
+6 is jumping, even, spy, palindromic
+8 is jumping, even, sunny, spy, palindromic
+10 is jumping, even, duck
+12 is jumping, even
 14 is even, buzz
-16 is even
+16 is square, even
 18 is even
 20 is even, duck
 Enter a request: > 1 10 ODD
-1 is spy, odd, palindromic
-3 is spy, odd, palindromic
-5 is spy, odd, palindromic
-7 is buzz, spy, odd, palindromic
-9 is spy, odd, palindromic
+1 is square, jumping, spy, odd, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+5 is jumping, spy, odd, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+9 is square, jumping, spy, odd, palindromic
 11 is odd, palindromic
 13 is odd
-15 is odd
+15 is sunny, odd
 17 is buzz, odd
 19 is odd
 Enter a request: > 0
@@ -957,26 +1067,26 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 3996 16 PALINDROMIC
-4004 is even, duck, gapful, buzz, palindromic
-4114 is even, palindromic
-4224 is even, gapful, palindromic
-4334 is even, palindromic
-4444 is even, gapful, palindromic
-4554 is even, palindromic
-4664 is even, gapful, palindromic
-4774 is even, buzz, palindromic
-4884 is even, gapful, palindromic
-4994 is even, palindromic
-5005 is duck, gapful, buzz, odd, palindromic
-5115 is gapful, odd, palindromic
-5225 is gapful, odd, palindromic
-5335 is gapful, odd, palindromic
-5445 is gapful, odd, palindromic
-5555 is gapful, odd, palindromic
+- enter 0 to exit
+Enter a request: > 16590 16 EVEN
+16590 is even, duck, gapful, buzz
+16592 is even
+16594 is even
+16596 is even
+16598 is even
+16600 is even, duck, gapful
+16602 is even, duck
+16604 is even, duck, gapful, buzz
+16606 is even, duck
+16608 is even, duck
+16610 is even, duck, gapful
+16612 is even
+16614 is even
+16616 is even
+16618 is even, buzz
+16620 is even, duck, gapful
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -987,24 +1097,28 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 27873 14 BUZZ
-27874 is even, buzz
-27877 is buzz, odd
-27881 is buzz, odd
-27887 is buzz, odd
-27888 is even, gapful, buzz
-27895 is buzz, odd
-27897 is buzz, odd
-27902 is even, duck, buzz
-27907 is duck, buzz, odd
-27909 is duck, buzz, odd
-27916 is even, buzz
-27917 is buzz, odd
-27923 is buzz, odd
-27927 is buzz, odd
+- enter 0 to exit
+Enter a request: > 28265 18 SPY
+31113 is spy, odd, palindromic
+31131 is spy, odd
+31311 is buzz, spy, odd
+33111 is spy, odd
+51112 is even, spy
+51121 is buzz, spy, odd
+51211 is spy, odd
+52111 is spy, odd
+111126 is even, spy
+111162 is even, spy
+111216 is even, gapful, buzz, spy
+111261 is spy, odd
+111612 is even, gapful, spy
+111621 is spy, odd
+112116 is even, spy
+112161 is buzz, spy, odd
+112611 is spy, odd
+116112 is even, gapful, spy
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1015,14 +1129,24 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 3880 4 GAPFUL
-3885 is gapful, buzz, odd
-3900 is even, duck, gapful
-3930 is even, duck, gapful
-3939 is gapful, odd
+- enter 0 to exit
+Enter a request: > 29063 14 GAPFUL
+29064 is even, duck, gapful, buzz
+29075 is duck, gapful, odd
+29080 is even, duck, gapful
+29100 is even, duck, gapful
+29120 is even, duck, gapful, buzz
+29125 is gapful, odd
+29140 is even, duck, gapful
+29146 is even, gapful
+29148 is even, gapful, buzz
+29160 is even, duck, gapful
+29172 is even, gapful
+29175 is gapful, odd
+29180 is even, duck, gapful
+29184 is even, gapful
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1033,21 +1157,22 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 1321 11 PALINDROMIC
-1331 is gapful, odd, palindromic
-1441 is gapful, odd, palindromic
-1551 is gapful, odd, palindromic
-1661 is gapful, odd, palindromic
-1771 is gapful, buzz, odd, palindromic
-1881 is gapful, odd, palindromic
-1991 is gapful, odd, palindromic
-2002 is even, duck, gapful, buzz, palindromic
-2112 is even, gapful, palindromic
-2222 is even, gapful, palindromic
-2332 is even, gapful, palindromic
+- enter 0 to exit
+Enter a request: > 30514 12 ODD
+30515 is duck, odd
+30517 is duck, buzz, odd
+30519 is duck, odd
+30521 is duck, odd
+30523 is duck, odd
+30525 is duck, odd
+30527 is duck, buzz, odd
+30529 is duck, odd
+30531 is duck, odd
+30533 is duck, odd
+30535 is duck, odd
+30537 is duck, buzz, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1058,27 +1183,12 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 19316 17 BUZZ
-19317 is buzz, odd
-19320 is even, duck, gapful, buzz
-19327 is buzz, odd
-19334 is even, gapful, buzz
-19337 is buzz, odd
-19341 is buzz, odd
-19347 is buzz, odd
-19348 is even, buzz
-19355 is buzz, odd
-19357 is buzz, odd
-19362 is even, buzz
-19367 is buzz, odd
-19369 is buzz, odd
-19376 is even, gapful, buzz
-19377 is buzz, odd
-19383 is gapful, buzz, odd
-19387 is buzz, odd
+- enter 0 to exit
+Enter a request: > 7500 2 SQUARE
+7569 is square, odd
+7744 is square, even
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1089,24 +1199,30 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 8128 14 BUZZ
-8134 is even, buzz
-8137 is buzz, odd
-8141 is buzz, odd
-8147 is buzz, odd
-8148 is even, buzz
-8155 is buzz, odd
-8157 is buzz, odd
-8162 is even, buzz
-8167 is buzz, odd
-8169 is buzz, odd
-8176 is even, buzz
-8177 is buzz, odd
-8183 is buzz, odd
-8187 is buzz, odd
+- enter 0 to exit
+Enter a request: > 26070 20 SPY
+31113 is spy, odd, palindromic
+31131 is spy, odd
+31311 is buzz, spy, odd
+33111 is spy, odd
+51112 is even, spy
+51121 is buzz, spy, odd
+51211 is spy, odd
+52111 is spy, odd
+111126 is even, spy
+111162 is even, spy
+111216 is even, gapful, buzz, spy
+111261 is spy, odd
+111612 is even, gapful, spy
+111621 is spy, odd
+112116 is even, spy
+112161 is buzz, spy, odd
+112611 is spy, odd
+116112 is even, gapful, spy
+116121 is spy, odd
+116211 is spy, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1117,20 +1233,23 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 13253 10 BUZZ
-13257 is buzz, odd
-13258 is even, buzz
-13265 is buzz, odd
-13267 is buzz, odd
-13272 is even, gapful, buzz
-13277 is gapful, buzz, odd
-13279 is buzz, odd
-13286 is even, buzz
-13287 is buzz, odd
-13293 is buzz, odd
+- enter 0 to exit
+Enter a request: > 1925 13 PALINDROMIC
+1991 is gapful, odd, palindromic
+2002 is even, duck, gapful, buzz, palindromic
+2112 is even, gapful, palindromic
+2222 is even, gapful, palindromic
+2332 is even, gapful, palindromic
+2442 is even, gapful, palindromic
+2552 is even, gapful, palindromic
+2662 is even, gapful, palindromic
+2772 is even, gapful, buzz, palindromic
+2882 is even, gapful, palindromic
+2992 is even, gapful, palindromic
+3003 is duck, gapful, buzz, odd, palindromic
+3113 is odd, palindromic
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1141,28 +1260,27 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 21695 18 EVEN
-21696 is even
-21698 is even
-21700 is even, duck, gapful, buzz
-21702 is even, duck
-21704 is even, duck
-21706 is even, duck
-21708 is even, duck
-21710 is even, duck
-21712 is even, palindromic
-21714 is even, buzz
-21716 is even
-21718 is even
-21720 is even, duck, gapful
-21722 is even
-21724 is even
-21726 is even
-21728 is even, gapful, buzz
-21730 is even, duck
+- enter 0 to exit
+Enter a request: > 29010 17 SPY
+31113 is spy, odd, palindromic
+31131 is spy, odd
+31311 is buzz, spy, odd
+33111 is spy, odd
+51112 is even, spy
+51121 is buzz, spy, odd
+51211 is spy, odd
+52111 is spy, odd
+111126 is even, spy
+111162 is even, spy
+111216 is even, gapful, buzz, spy
+111261 is spy, odd
+111612 is even, gapful, spy
+111621 is spy, odd
+112116 is even, spy
+112161 is buzz, spy, odd
+112611 is spy, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1173,30 +1291,27 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 32654 20 ODD
-32655 is gapful, buzz, odd
-32657 is buzz, odd
-32659 is odd
-32661 is odd
-32663 is odd
-32665 is odd
-32667 is buzz, odd
-32669 is buzz, odd
-32671 is odd
-32673 is odd
-32675 is odd
-32677 is buzz, odd
-32679 is odd
-32681 is odd
-32683 is buzz, odd
-32685 is odd
-32687 is buzz, odd
-32689 is odd
-32691 is odd
-32693 is odd
+- enter 0 to exit
+Enter a request: > 30315 17 GAPFUL
+30330 is even, duck, gapful
+30345 is duck, gapful, buzz, odd
+30360 is even, duck, gapful
+30377 is duck, gapful, buzz, odd
+30390 is even, duck, gapful
+30393 is duck, gapful, odd
+30411 is duck, gapful, odd
+30415 is duck, gapful, buzz, odd
+30420 is even, duck, gapful
+30432 is even, duck, gapful
+30438 is even, duck, gapful
+30450 is even, duck, gapful, buzz
+30456 is even, duck, gapful
+30459 is duck, gapful, odd
+30464 is even, duck, gapful, buzz
+30480 is even, duck, gapful
+30485 is duck, gapful, buzz, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1207,22 +1322,734 @@ Supported requests:
 - enter two natural numbers to obtain the properties of the list:
   * the first parameter represents a starting number;
   * the second parameter shows how many consecutive numbers are to be printed;
-- two natural numbers and a property to search for;
+- two natural numbers and properties to search for;
 - separate the parameters with one space;
-- enter 0 to exit.
-Enter a request: > 10711 12 SPY
-11125 is spy, odd
-11133 is spy, odd
-11152 is even, spy
-11215 is spy, odd
-11222 is even, spy
-11251 is spy, odd
-11313 is spy, odd
-11331 is spy, odd
-11512 is even, spy
-11521 is spy, odd
-12115 is spy, odd
-12122 is even, spy
+- enter 0 to exit
+Enter a request: > 17301 20 GAPFUL
+17303 is duck, gapful, odd
+17304 is even, duck, gapful, buzz
+17309 is duck, gapful, odd
+17310 is even, duck, gapful
+17320 is even, duck, gapful
+17325 is gapful, buzz, odd
+17330 is even, duck, gapful
+17340 is even, duck, gapful
+17350 is even, duck, gapful
+17352 is even, gapful
+17355 is gapful, odd
+17357 is gapful, buzz, odd
+17360 is even, duck, gapful, buzz
+17370 is even, duck, gapful
+17374 is even, gapful, buzz
+17376 is even, gapful
+17380 is even, duck, gapful
+17385 is gapful, odd
+17388 is even, gapful, buzz
+17390 is even, duck, gapful
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 47?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 odd girl
+The property [GIRL] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 48?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 40 2 even day
+The property [DAY] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 49?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 37 4 spy 89
+The property [89] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 50?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 67 2 DUCK +
+The property [+] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 51?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 boy friend
+The properties [BOY, FRIEND] are wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 52?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 40 2 long day
+The properties [LONG, DAY] are wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 53?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 37 4 hot girl
+The properties [HOT, GIRL] are wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 54?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 67 2 strong drake
+The properties [STRONG, DRAKE] are wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 55?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 7 odd spy palindromic
+1 is square, jumping, spy, odd, palindromic
+3 is jumping, sunny, spy, odd, palindromic
+5 is jumping, spy, odd, palindromic
+7 is jumping, buzz, spy, odd, palindromic
+9 is square, jumping, spy, odd, palindromic
+12221 is gapful, spy, odd, palindromic
+13131 is spy, odd, palindromic
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 56?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 even palindromic duck buzz
+2002 is even, duck, gapful, buzz, palindromic
+4004 is even, duck, gapful, buzz, palindromic
+6006 is even, duck, gapful, buzz, palindromic
+8008 is even, duck, gapful, buzz, palindromic
+20202 is even, duck, buzz, palindromic
+20902 is even, duck, buzz, palindromic
+22022 is even, duck, gapful, buzz, palindromic
+29092 is even, duck, buzz, palindromic
+40404 is even, duck, buzz, palindromic
+44044 is even, duck, gapful, buzz, palindromic
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 57?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 9 even palindromic duck buzz gapful
+2002 is even, duck, gapful, buzz, palindromic
+4004 is even, duck, gapful, buzz, palindromic
+6006 is even, duck, gapful, buzz, palindromic
+8008 is even, duck, gapful, buzz, palindromic
+22022 is even, duck, gapful, buzz, palindromic
+44044 is even, duck, gapful, buzz, palindromic
+66066 is even, duck, gapful, buzz, palindromic
+88088 is even, duck, gapful, buzz, palindromic
+202202 is even, duck, gapful, buzz, palindromic
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 58?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 even sunny duck buzz gapful
+1680 is even, duck, gapful, sunny, buzz
+4760 is even, duck, gapful, sunny, buzz
+9408 is even, duck, gapful, sunny, buzz
+12320 is even, duck, gapful, sunny, buzz
+19320 is even, duck, gapful, sunny, buzz
+19880 is even, duck, gapful, sunny, buzz
+23408 is even, duck, gapful, sunny, buzz
+24024 is even, duck, gapful, sunny, buzz
+28560 is even, duck, gapful, sunny, buzz
+32760 is even, duck, gapful, sunny, buzz
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 59?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 100000 2 even spy buzz gapful
+111216 is even, gapful, buzz, spy
+161112 is even, gapful, buzz, spy
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 60?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 100 4 odd spy gapful
+231 is gapful, buzz, spy, odd
+12221 is gapful, spy, odd, palindromic
+216111 is gapful, buzz, spy, odd
+1111341 is gapful, buzz, spy, odd
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 61?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 2000 4 even palindromic duck
+2002 is even, duck, gapful, buzz, palindromic
+4004 is even, duck, gapful, buzz, palindromic
+6006 is even, duck, gapful, buzz, palindromic
+8008 is even, duck, gapful, buzz, palindromic
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 62?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 7 even spy
+2 is jumping, even, spy, palindromic
+4 is square, jumping, even, spy, palindromic
+6 is jumping, even, spy, palindromic
+8 is jumping, even, sunny, spy, palindromic
+22 is even, spy, palindromic
+132 is even, gapful, spy
+312 is even, spy
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 63?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 odd buzz
+7 is jumping, buzz, spy, odd, palindromic
+17 is buzz, odd
+21 is jumping, buzz, odd
+27 is buzz, odd
+35 is sunny, buzz, odd
+37 is buzz, odd
+47 is buzz, odd
+49 is square, buzz, odd
+57 is buzz, odd
+63 is sunny, buzz, odd
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 64?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 9 buzz gapful
+105 is duck, gapful, buzz, odd
+140 is even, duck, gapful, buzz
+154 is even, gapful, buzz
+187 is gapful, buzz, odd
+231 is gapful, buzz, spy, odd
+280 is even, duck, gapful, buzz
+297 is gapful, buzz, odd
+315 is gapful, buzz, odd
+385 is gapful, buzz, odd
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 65?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 10 spy buzz
+7 is jumping, buzz, spy, odd, palindromic
+231 is gapful, buzz, spy, odd
+1421 is buzz, spy, odd
+2114 is even, buzz, spy
+15211 is buzz, spy, odd
+21511 is buzz, spy, odd
+22211 is buzz, spy, odd
+31311 is buzz, spy, odd
+51121 is buzz, spy, odd
+111216 is even, gapful, buzz, spy
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 66?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 100000 2 even spy
+111126 is even, spy
+111162 is even, spy
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 67?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 100 4 odd gapful
+105 is duck, gapful, buzz, odd
+121 is square, jumping, gapful, odd, palindromic
+135 is gapful, odd
+143 is gapful, sunny, odd
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 68?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 2000 4 palindromic duck
+2002 is even, duck, gapful, buzz, palindromic
+3003 is duck, gapful, buzz, odd, palindromic
+4004 is even, duck, gapful, buzz, palindromic
+5005 is duck, gapful, buzz, odd, palindromic
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 69?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 4170 3 PALINDROMIC SUNNY JUMPING evens
+The property [EVENS] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 70?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 23619 16 ODD Boy BUZZ
+The property [BOY] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 71?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 14903 7 ...
+The property [...] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 72?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 25375 9 evens ODD SQUARE DUCK
+The property [EVENS] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 73?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 9104 12 SPY DUCK PALINDROMIC evens SQUARE
+The property [EVENS] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 74?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 8321 17 gipful DUCK SQUARE SPY
+The property [GIPFUL] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 75?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 6335 9 Boy ODD BUZZ
+The property [BOY] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 76?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 30977 1 BUZZ DUCK ~~ SPY
+The property [~~] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 77?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 13724 17 PALINDROMIC SUNNY JUMPING reverse BUZZ
+The property [REVERSE] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 78?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 13713 6 EVEN BUZZ _odd_ SPY ODD
+The property [_ODD_] is wrong.
+Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 79?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 5 1 odd even
+The request contains mutually exclusive properties: [ODD, EVEN] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 80?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 4 3 even odd
+The request contains mutually exclusive properties: [ODD, EVEN] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 81?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 32 2 sunny square
+The request contains mutually exclusive properties: [SUNNY, SQUARE] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 82?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 3153 2 spy duck
+The request contains mutually exclusive properties: [DUCK, SPY] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 83?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 6 7 duck spy
+The request contains mutually exclusive properties: [DUCK, SPY] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 84?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 1 2 spy odd sunny even
+The request contains mutually exclusive properties: [ODD, EVEN] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 85?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 7 2 sunny even duck buzz square
+The request contains mutually exclusive properties: [SUNNY, SQUARE] 
+There are no numbers with these properties.
+Enter a request: > 0
+Goodbye!
+?[1;31m
+Start test 86?[0m
+Welcome to Amazing Numbers!
+Supported requests:
+- enter a natural number to know its properties;
+- enter two natural numbers to obtain the properties of the list:
+  * the first parameter represents a starting number;
+  * the second parameter shows how many consecutive numbers are to be printed;
+- two natural numbers and properties to search for;
+- separate the parameters with one space;
+- enter 0 to exit
+Enter a request: > 9 5 even spy buzz duck
+The request contains mutually exclusive properties: [DUCK, SPY] 
+There are no numbers with these properties.
 Enter a request: > 0
 Goodbye!
 ]]></system-out>

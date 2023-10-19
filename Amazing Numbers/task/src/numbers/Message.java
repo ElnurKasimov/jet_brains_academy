@@ -2,6 +2,7 @@ package numbers;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 
 public class Message {
     public static void printGreetings() {
@@ -51,8 +52,12 @@ public class Message {
         System.out.println("Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]");
     }
 
-    public static void printErrorMutuallyExclusiveParameter(String firstProperty, String secondProperty) {
-        System.out.printf("The request contains mutually exclusive properties [%s, %s]%n", firstProperty.toUpperCase(), secondProperty.toUpperCase());
+    public static void printErrorMutuallyExclusiveParameter(Map<String, String> map) {
+        System.out.print("The request contains mutually exclusive properties: ");
+        for(Map.Entry<String, String> pair : map.entrySet()) {
+            System.out.print("[" + pair.getKey() + ", " + pair.getValue() + "] ");
+        }
+        System.out.println();
         System.out.println("There are no numbers with these properties.");
     }
 }
