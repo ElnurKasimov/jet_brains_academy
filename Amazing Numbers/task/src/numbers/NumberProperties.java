@@ -56,8 +56,7 @@ public class NumberProperties {
     public boolean isJumping() {
         boolean result = true;
         for (int i = 0; i < figures.size() - 1; i++) {
-            if ( (Math.abs(figures.get(i) - figures.get(i+1)) != 1) &&
-                 (Math.abs(figures.get(i) - figures.get(i+1)) != 9) ) {
+            if (Math.abs(figures.get(i) - figures.get(i+1)) != 1) {
                 result = false;
                 break;
             }

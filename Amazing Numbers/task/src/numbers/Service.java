@@ -87,7 +87,10 @@ public class Service {
                 }
             }
             Map<String, String> mutuallyExclusivePairs = checkPropertyMutuallyExclusive(properties);
-
+            if (!mutuallyExclusivePairs.isEmpty()) {
+                Message.printErrorMutuallyExclusiveParameter(mutuallyExclusivePairs);
+                return;
+            }
             int counter = 0;
             while (counter < secondNumber) {
 
@@ -115,38 +118,35 @@ public class Service {
     }
 
     private static Map<String, String> checkPropertyMutuallyExclusive(List<String> properties) {
+        properties.replaceAll(String::toUpperCase);
         Map<String, String> result = new HashMap<>();
-
-//        if ("odd".equalsIgnoreCase(first) && "even".equalsIgnoreCase(second)) {
-//            result = true;
-//        }
-//        if ("odd".equalsIgnoreCase(second) && "even".equalsIgnoreCase(first)) {
-//            result = true;
-//        }
-//        if ("duck".equalsIgnoreCase(first) && "spy".equalsIgnoreCase(second)) {
-//            result = true;
-//        }
-//        if ("duck".equalsIgnoreCase(second) && "spy".equalsIgnoreCase(first)) {
-//            result = true;
-//        }
-//        if ("sunny".equalsIgnoreCase(first) && "square".equalsIgnoreCase(second)) {
-//            result = true;
-//        }
-//        if ("sunny".equalsIgnoreCase(second) && "square".equalsIgnoreCase(first)) {
-//            result = true;
-//        }
-
+        if (properties.contains("ODD") && properties.contains("EVEN")) {
+            result.put("ODD", "EVEN");
+        }
+        if (properties.contains("DUCK") && properties.contains("SPY")) {
+            result.put("DUCK", "SPY");
+        }
+        if (properties.contains("SUNNY") && properties.contains("SQUARE")) {
+            result.put("SUNNY", "SQUARE");
+        }
         return  result;
     }
 
     private static boolean containsSuchProperties(Map<String, String> numberProperties, List<String> inputProperties) {
-        boolean result = true;
-        for (String property : inputProperties) {
+        boolean[] results = new boolean[inputProperties.size()];
+        for (int i = 0; i < inputProperties.size() ; i++) {
             for (Map.Entry<String, String> entry : numberProperties.entrySet()) {
-                if (!(property.equalsIgnoreCase(entry.getKey()) && "true".equals(entry.getValue()) ) ) {
-                    result = false;
+                if (inputProperties.get(i).equalsIgnoreCase(entry.getKey()) && "true".equals(entry.getValue()) ) {
+                    results[i] = true;
                     break;
                 }
+            }
+        }
+        boolean result = true;
+        for (boolean res : results) {
+            if (!res) {
+                result = false;
+                break;
             }
         }
         return result;
