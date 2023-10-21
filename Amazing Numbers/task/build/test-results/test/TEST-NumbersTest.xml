@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="NumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-19T20:57:40" hostname="DESKTOP-LDRFUTJ" time="5.306">
+<testsuite name="NumbersTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-19T21:01:15" hostname="DESKTOP-LDRFUTJ" time="4.973">
   <properties/>
-  <testcase name="start" classname="NumbersTest" time="5.306"/>
+  <testcase name="start" classname="NumbersTest" time="4.973"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Welcome to Amazing Numbers!
@@ -26,7 +26,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > -37
+Enter a request: > -89
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -41,7 +41,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > -55
+Enter a request: > -66
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -56,7 +56,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > -117
+Enter a request: > -33
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -71,7 +71,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > -16
+Enter a request: > -9
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -86,7 +86,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > -80
+Enter a request: > -119
 The first parameter should be a natural number or zero.
 Enter a request: > 0
 Goodbye!
@@ -101,7 +101,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 19718 -10434
+Enter a request: > 3023 -3218
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -116,7 +116,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 31078 -9233
+Enter a request: > 20281 -4345
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -131,7 +131,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 16867 -17464
+Enter a request: > 31678 -5128
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -146,7 +146,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 26130 -32131
+Enter a request: > 31015 -15167
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -161,7 +161,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 25885 -6064
+Enter a request: > 28519 -22845
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -176,7 +176,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 19940 -28234
+Enter a request: > 28418 -15979
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -191,7 +191,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 11036 -11122
+Enter a request: > 28867 -28100
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -206,7 +206,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 3822 -6262
+Enter a request: > 1724 -12516
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -221,7 +221,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 3573 -1709
+Enter a request: > 16825 -29138
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -236,7 +236,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 28593 -16312
+Enter a request: > 18417 -22869
 The second parameter should be a natural number.
 Enter a request: > 0
 Goodbye!
@@ -419,32 +419,8 @@ buzz : true
 spy : false
 odd : false
 palindromic : false
-Enter a request: > 3877921696202796756
-properties of 3877921696202796756
-square : false
-jumping : false
-even : true
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 6239419989308140542
-properties of 6239419989308140542
-square : false
-jumping : false
-even : true
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 2033261464600546451
-properties of 2033261464600546451
+Enter a request: > 5326366858480109313
+properties of 5326366858480109313
 square : false
 jumping : false
 even : false
@@ -455,80 +431,56 @@ buzz : false
 spy : false
 odd : true
 palindromic : false
-Enter a request: > 5998791549776068760
-properties of 5998791549776068760
+Enter a request: > 2809103028261991180
+properties of 2809103028261991180
 square : false
 jumping : false
 even : true
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 584461089254038657
-properties of 584461089254038657
-square : false
-jumping : false
-even : false
-duck : true
-gapful : false
-sunny : false
-buzz : true
-spy : false
-odd : true
-palindromic : false
-Enter a request: > 5454372035100560714
-properties of 5454372035100560714
-square : false
-jumping : false
-even : true
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 4180448699107905415
-properties of 4180448699107905415
-square : false
-jumping : false
-even : false
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : true
-palindromic : false
-Enter a request: > 4322258535431601416
-properties of 4322258535431601416
-square : false
-jumping : false
-even : true
-duck : true
-gapful : false
-sunny : false
-buzz : false
-spy : false
-odd : false
-palindromic : false
-Enter a request: > 4436127470047658175
-properties of 4436127470047658175
-square : false
-jumping : false
-even : false
 duck : true
 gapful : true
 sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 7457669483620388294
+properties of 7457669483620388294
+square : false
+jumping : false
+even : true
+duck : true
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 3910091552669119797
+properties of 3910091552669119797
+square : false
+jumping : false
+even : false
+duck : true
+gapful : false
+sunny : false
 buzz : true
 spy : false
 odd : true
 palindromic : false
-Enter a request: > 9011727592287087041
-properties of 9011727592287087041
+Enter a request: > 279697921887232966
+properties of 279697921887232966
+square : false
+jumping : false
+even : true
+duck : false
+gapful : true
+sunny : false
+buzz : false
+spy : false
+odd : false
+palindromic : false
+Enter a request: > 2648794657030081853
+properties of 2648794657030081853
 square : false
 jumping : false
 even : false
@@ -538,6 +490,54 @@ sunny : false
 buzz : false
 spy : false
 odd : true
+palindromic : false
+Enter a request: > 8478738481133883593
+properties of 8478738481133883593
+square : false
+jumping : false
+even : false
+duck : false
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : true
+palindromic : false
+Enter a request: > 4797990089047245839
+properties of 4797990089047245839
+square : false
+jumping : false
+even : false
+duck : true
+gapful : false
+sunny : false
+buzz : true
+spy : false
+odd : true
+palindromic : false
+Enter a request: > 3010313524382576931
+properties of 3010313524382576931
+square : false
+jumping : false
+even : false
+duck : true
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : true
+palindromic : false
+Enter a request: > 65156467324351614
+properties of 65156467324351614
+square : false
+jumping : false
+even : true
+duck : false
+gapful : false
+sunny : false
+buzz : false
+spy : false
+odd : false
 palindromic : false
 Enter a request: > 0
 Goodbye!
@@ -581,13 +581,20 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 329660735589846947 6
-329660735589846947 is duck, buzz, odd
-329660735589846948 is even, duck, buzz
-329660735589846949 is duck, odd
-329660735589846950 is even, duck
-329660735589846951 is duck, odd
-329660735589846952 is even, duck
+Enter a request: > 8041226424568023907 13
+8041226424568023907 is duck, buzz, odd
+8041226424568023908 is even, duck
+8041226424568023909 is duck, odd
+8041226424568023910 is even, duck
+8041226424568023911 is duck, buzz, odd
+8041226424568023912 is even, duck
+8041226424568023913 is duck, odd
+8041226424568023914 is even, duck
+8041226424568023915 is duck, odd
+8041226424568023916 is even, duck
+8041226424568023917 is duck, buzz, odd
+8041226424568023918 is even, duck, buzz
+8041226424568023919 is duck, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -601,14 +608,11 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 6728152737536711760 7
-6728152737536711760 is even, duck, gapful
-6728152737536711761 is buzz, odd
-6728152737536711762 is even
-6728152737536711763 is odd
-6728152737536711764 is even
-6728152737536711765 is odd
-6728152737536711766 is even
+Enter a request: > 6018846922790456111 4
+6018846922790456111 is duck, buzz, odd
+6018846922790456112 is even, duck
+6018846922790456113 is duck, odd
+6018846922790456114 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -622,19 +626,17 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 1792961032204312813 12
-1792961032204312813 is duck, odd
-1792961032204312814 is even, duck
-1792961032204312815 is duck, gapful, odd
-1792961032204312816 is even, duck, gapful
-1792961032204312817 is duck, gapful, buzz, odd
-1792961032204312818 is even, duck
-1792961032204312819 is duck, odd
-1792961032204312820 is even, duck, gapful
-1792961032204312821 is duck, odd
-1792961032204312822 is even, duck
-1792961032204312823 is duck, odd
-1792961032204312824 is even, duck, gapful, buzz
+Enter a request: > 582648774357562839 10
+582648774357562839 is odd
+582648774357562840 is even, duck
+582648774357562841 is odd
+582648774357562842 is even
+582648774357562843 is buzz, odd
+582648774357562844 is even
+582648774357562845 is odd
+582648774357562846 is even
+582648774357562847 is buzz, odd
+582648774357562848 is even, gapful
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -648,13 +650,19 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 2278851887878491228 6
-2278851887878491228 is even
-2278851887878491229 is odd
-2278851887878491230 is even, duck
-2278851887878491231 is odd
-2278851887878491232 is even
-2278851887878491233 is buzz, odd
+Enter a request: > 625839295977362752 12
+625839295977362752 is even
+625839295977362753 is odd
+625839295977362754 is even, buzz
+625839295977362755 is odd
+625839295977362756 is even
+625839295977362757 is buzz, odd
+625839295977362758 is even
+625839295977362759 is odd
+625839295977362760 is even, duck, gapful
+625839295977362761 is buzz, odd
+625839295977362762 is even
+625839295977362763 is odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -668,24 +676,14 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 3515021463321925829 17
-3515021463321925829 is duck, odd
-3515021463321925830 is even, duck, gapful, buzz
-3515021463321925831 is duck, odd
-3515021463321925832 is even, duck
-3515021463321925833 is duck, odd
-3515021463321925834 is even, duck
-3515021463321925835 is duck, odd
-3515021463321925836 is even, duck
-3515021463321925837 is duck, buzz, odd
-3515021463321925838 is even, duck
-3515021463321925839 is duck, odd
-3515021463321925840 is even, duck
-3515021463321925841 is duck, odd
-3515021463321925842 is even, duck
-3515021463321925843 is duck, odd
-3515021463321925844 is even, duck, buzz
-3515021463321925845 is duck, odd
+Enter a request: > 5953034687975007446 7
+5953034687975007446 is even, duck
+5953034687975007447 is duck, buzz, odd
+5953034687975007448 is even, duck
+5953034687975007449 is duck, odd
+5953034687975007450 is even, duck, gapful
+5953034687975007451 is duck, buzz, odd
+5953034687975007452 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -699,20 +697,26 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 1286173159493829578 13
-1286173159493829578 is even
-1286173159493829579 is buzz, odd
-1286173159493829580 is even, duck, gapful
-1286173159493829581 is odd
-1286173159493829582 is even
-1286173159493829583 is odd
-1286173159493829584 is even
-1286173159493829585 is gapful, odd
-1286173159493829586 is even, buzz
-1286173159493829587 is buzz, odd
-1286173159493829588 is even, gapful
-1286173159493829589 is odd
-1286173159493829590 is even, duck, gapful
+Enter a request: > 5115054649788369192 19
+5115054649788369192 is even, duck
+5115054649788369193 is duck, odd
+5115054649788369194 is even, duck
+5115054649788369195 is duck, buzz, odd
+5115054649788369196 is even, duck
+5115054649788369197 is duck, buzz, odd
+5115054649788369198 is even, duck
+5115054649788369199 is duck, odd
+5115054649788369200 is even, duck, gapful
+5115054649788369201 is duck, gapful, odd
+5115054649788369202 is even, duck, buzz
+5115054649788369203 is duck, odd
+5115054649788369204 is even, duck
+5115054649788369205 is duck, odd
+5115054649788369206 is even, duck
+5115054649788369207 is duck, buzz, odd
+5115054649788369208 is even, duck
+5115054649788369209 is duck, buzz, odd
+5115054649788369210 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -726,25 +730,12 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 5237028906402488983 18
-5237028906402488983 is duck, odd
-5237028906402488984 is even, duck
-5237028906402488985 is duck, odd
-5237028906402488986 is even, duck, buzz
-5237028906402488987 is duck, buzz, odd
-5237028906402488988 is even, duck
-5237028906402488989 is duck, odd
-5237028906402488990 is even, duck
-5237028906402488991 is duck, odd
-5237028906402488992 is even, duck
-5237028906402488993 is duck, buzz, odd
-5237028906402488994 is even, duck
-5237028906402488995 is duck, odd
-5237028906402488996 is even, duck
-5237028906402488997 is duck, buzz, odd
-5237028906402488998 is even, duck
-5237028906402488999 is duck, odd
-5237028906402489000 is even, duck, gapful, buzz
+Enter a request: > 8661345357843223904 5
+8661345357843223904 is even, duck
+8661345357843223905 is duck, odd
+8661345357843223906 is even, duck, buzz
+8661345357843223907 is duck, buzz, odd
+8661345357843223908 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -758,22 +749,23 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 6940863901822971714 15
-6940863901822971714 is even, duck
-6940863901822971715 is duck, buzz, odd
-6940863901822971716 is even, duck
-6940863901822971717 is duck, buzz, odd
-6940863901822971718 is even, duck
-6940863901822971719 is duck, odd
-6940863901822971720 is even, duck, gapful
-6940863901822971721 is duck, odd
-6940863901822971722 is even, duck, buzz
-6940863901822971723 is duck, odd
-6940863901822971724 is even, duck
-6940863901822971725 is duck, odd
-6940863901822971726 is even, duck
-6940863901822971727 is duck, buzz, odd
-6940863901822971728 is even, duck
+Enter a request: > 2952126047632709362 16
+2952126047632709362 is even, duck
+2952126047632709363 is duck, odd
+2952126047632709364 is even, duck
+2952126047632709365 is duck, odd
+2952126047632709366 is even, duck
+2952126047632709367 is duck, gapful, buzz, odd
+2952126047632709368 is even, duck
+2952126047632709369 is duck, odd
+2952126047632709370 is even, duck
+2952126047632709371 is duck, odd
+2952126047632709372 is even, duck
+2952126047632709373 is duck, gapful, odd
+2952126047632709374 is even, duck, buzz
+2952126047632709375 is duck, gapful, odd
+2952126047632709376 is even, duck, gapful
+2952126047632709377 is duck, buzz, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -787,22 +779,16 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 4934836387752597901 15
-4934836387752597901 is duck, odd
-4934836387752597902 is even, duck
-4934836387752597903 is duck, gapful, odd
-4934836387752597904 is even, duck
-4934836387752597905 is duck, odd
-4934836387752597906 is even, duck
-4934836387752597907 is duck, buzz, odd
-4934836387752597908 is even, duck
-4934836387752597909 is duck, odd
-4934836387752597910 is even, duck
-4934836387752597911 is odd
-4934836387752597912 is even
-4934836387752597913 is odd
-4934836387752597914 is even, buzz
-4934836387752597915 is odd
+Enter a request: > 2420585132359859174 9
+2420585132359859174 is even, duck
+2420585132359859175 is duck, gapful, odd
+2420585132359859176 is even, duck
+2420585132359859177 is duck, buzz, odd
+2420585132359859178 is even, duck, buzz
+2420585132359859179 is duck, odd
+2420585132359859180 is even, duck, gapful
+2420585132359859181 is duck, odd
+2420585132359859182 is even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -816,12 +802,15 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 2835972686420732514 5
-2835972686420732514 is even, duck
-2835972686420732515 is duck, odd
-2835972686420732516 is even, duck, buzz
-2835972686420732517 is duck, buzz, odd
-2835972686420732518 is even, duck
+Enter a request: > 1409435116074674780 8
+1409435116074674780 is even, duck, gapful, buzz
+1409435116074674781 is duck, odd
+1409435116074674782 is even, duck
+1409435116074674783 is duck, odd
+1409435116074674784 is even, duck
+1409435116074674785 is duck, odd
+1409435116074674786 is even, duck
+1409435116074674787 is duck, buzz, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1070,23 +1059,18 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 16590 16 EVEN
-16590 is even, duck, gapful, buzz
-16592 is even
-16594 is even
-16596 is even
-16598 is even
-16600 is even, duck, gapful
-16602 is even, duck
-16604 is even, duck, gapful, buzz
-16606 is even, duck
-16608 is even, duck
-16610 is even, duck, gapful
-16612 is even
-16614 is even
-16616 is even
-16618 is even, buzz
-16620 is even, duck, gapful
+Enter a request: > 19816 11 EVEN
+19816 is even
+19818 is even, gapful
+19820 is even, duck, gapful
+19822 is even
+19824 is even, gapful, buzz
+19826 is even
+19828 is even
+19830 is even, duck, gapful
+19832 is even
+19834 is even
+19836 is even
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1100,25 +1084,13 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 28265 18 SPY
-31113 is spy, odd, palindromic
-31131 is spy, odd
-31311 is buzz, spy, odd
-33111 is spy, odd
-51112 is even, spy
-51121 is buzz, spy, odd
-51211 is spy, odd
-52111 is spy, odd
-111126 is even, spy
-111162 is even, spy
-111216 is even, gapful, buzz, spy
-111261 is spy, odd
-111612 is even, gapful, spy
-111621 is spy, odd
-112116 is even, spy
-112161 is buzz, spy, odd
-112611 is spy, odd
-116112 is even, gapful, spy
+Enter a request: > 3554 6 SQUARE
+3600 is square, even, duck, gapful
+3721 is square, odd
+3844 is square, even
+3969 is square, buzz, odd
+4096 is square, even, duck
+4225 is square, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1132,21 +1104,23 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 29063 14 GAPFUL
-29064 is even, duck, gapful, buzz
-29075 is duck, gapful, odd
-29080 is even, duck, gapful
-29100 is even, duck, gapful
-29120 is even, duck, gapful, buzz
-29125 is gapful, odd
-29140 is even, duck, gapful
-29146 is even, gapful
-29148 is even, gapful, buzz
-29160 is even, duck, gapful
-29172 is even, gapful
-29175 is gapful, odd
-29180 is even, duck, gapful
-29184 is even, gapful
+Enter a request: > 11501 16 EVEN
+11502 is even, duck
+11504 is even, duck
+11506 is even, duck
+11508 is even, duck, buzz
+11510 is even, duck, gapful
+11512 is even, spy
+11514 is even
+11516 is even
+11518 is even
+11520 is even, duck, gapful
+11522 is even, buzz
+11524 is even
+11526 is even
+11528 is even
+11530 is even, duck, gapful
+11532 is even, gapful
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1160,19 +1134,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 30514 12 ODD
-30515 is duck, odd
-30517 is duck, buzz, odd
-30519 is duck, odd
-30521 is duck, odd
-30523 is duck, odd
-30525 is duck, odd
-30527 is duck, buzz, odd
-30529 is duck, odd
-30531 is duck, odd
-30533 is duck, odd
-30535 is duck, odd
-30537 is duck, buzz, odd
+Enter a request: > 26067 1 EVEN
+26068 is even, duck, gapful, buzz
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1186,9 +1149,9 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 7500 2 SQUARE
-7569 is square, odd
-7744 is square, even
+Enter a request: > 439 2 JUMPING
+454 is jumping, even, palindromic
+456 is jumping, even
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1202,27 +1165,22 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 26070 20 SPY
-31113 is spy, odd, palindromic
-31131 is spy, odd
-31311 is buzz, spy, odd
-33111 is spy, odd
-51112 is even, spy
-51121 is buzz, spy, odd
-51211 is spy, odd
-52111 is spy, odd
-111126 is even, spy
-111162 is even, spy
-111216 is even, gapful, buzz, spy
-111261 is spy, odd
-111612 is even, gapful, spy
-111621 is spy, odd
-112116 is even, spy
-112161 is buzz, spy, odd
-112611 is spy, odd
-116112 is even, gapful, spy
-116121 is spy, odd
-116211 is spy, odd
+Enter a request: > 25041 15 SUNNY
+25280 is even, duck, gapful, sunny
+25599 is sunny, buzz, odd
+25920 is even, duck, gapful, sunny
+26243 is gapful, sunny, buzz, odd
+26568 is even, sunny
+26895 is sunny, odd
+27224 is even, sunny
+27555 is sunny, odd
+27888 is even, gapful, sunny, buzz
+28223 is sunny, odd
+28560 is even, duck, gapful, sunny, buzz
+28899 is sunny, odd
+29240 is even, duck, gapful, sunny
+29583 is sunny, odd
+29928 is even, sunny
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1236,20 +1194,18 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 1925 13 PALINDROMIC
-1991 is gapful, odd, palindromic
-2002 is even, duck, gapful, buzz, palindromic
-2112 is even, gapful, palindromic
-2222 is even, gapful, palindromic
-2332 is even, gapful, palindromic
-2442 is even, gapful, palindromic
-2552 is even, gapful, palindromic
-2662 is even, gapful, palindromic
-2772 is even, gapful, buzz, palindromic
-2882 is even, gapful, palindromic
-2992 is even, gapful, palindromic
-3003 is duck, gapful, buzz, odd, palindromic
-3113 is odd, palindromic
+Enter a request: > 5769 11 SQUARE
+5776 is square, even
+5929 is square, buzz, odd
+6084 is square, even, duck
+6241 is square, odd
+6400 is square, even, duck
+6561 is square, odd
+6724 is square, even
+6889 is square, odd
+7056 is square, even, duck, buzz
+7225 is square, odd
+7396 is square, even
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1263,7 +1219,7 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 29010 17 SPY
+Enter a request: > 26565 11 SPY
 31113 is spy, odd, palindromic
 31131 is spy, odd
 31311 is buzz, spy, odd
@@ -1275,12 +1231,6 @@ Enter a request: > 29010 17 SPY
 111126 is even, spy
 111162 is even, spy
 111216 is even, gapful, buzz, spy
-111261 is spy, odd
-111612 is even, gapful, spy
-111621 is spy, odd
-112116 is even, spy
-112161 is buzz, spy, odd
-112611 is spy, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1294,24 +1244,15 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 30315 17 GAPFUL
-30330 is even, duck, gapful
-30345 is duck, gapful, buzz, odd
-30360 is even, duck, gapful
-30377 is duck, gapful, buzz, odd
-30390 is even, duck, gapful
-30393 is duck, gapful, odd
-30411 is duck, gapful, odd
-30415 is duck, gapful, buzz, odd
-30420 is even, duck, gapful
-30432 is even, duck, gapful
-30438 is even, duck, gapful
-30450 is even, duck, gapful, buzz
-30456 is even, duck, gapful
-30459 is duck, gapful, odd
-30464 is even, duck, gapful, buzz
-30480 is even, duck, gapful
-30485 is duck, gapful, buzz, odd
+Enter a request: > 17157 8 SQUARE
+17161 is square, odd
+17424 is square, even
+17689 is square, gapful, buzz, odd
+17956 is square, even
+18225 is square, gapful, odd
+18496 is square, even, gapful
+18769 is square, odd
+19044 is square, even, duck
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1325,27 +1266,9 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 17301 20 GAPFUL
-17303 is duck, gapful, odd
-17304 is even, duck, gapful, buzz
-17309 is duck, gapful, odd
-17310 is even, duck, gapful
-17320 is even, duck, gapful
-17325 is gapful, buzz, odd
-17330 is even, duck, gapful
-17340 is even, duck, gapful
-17350 is even, duck, gapful
-17352 is even, gapful
-17355 is gapful, odd
-17357 is gapful, buzz, odd
-17360 is even, duck, gapful, buzz
-17370 is even, duck, gapful
-17374 is even, gapful, buzz
-17376 is even, gapful
-17380 is even, duck, gapful
-17385 is gapful, odd
-17388 is even, gapful, buzz
-17390 is even, duck, gapful
+Enter a request: > 10080 2 SUNNY
+10200 is even, duck, gapful, sunny
+10403 is duck, sunny, odd
 Enter a request: > 0
 Goodbye!
 ?[1;31m
@@ -1775,8 +1698,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 4170 3 PALINDROMIC SUNNY JUMPING evens
-The property [EVENS] is wrong.
+Enter a request: > 22530 9 JUMPING ODD 242
+The property [242] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1791,8 +1714,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 23619 16 ODD Boy BUZZ
-The property [BOY] is wrong.
+Enter a request: > 10535 19 ~~ EVEN GAPFUL BUZZ ODD
+The property [~~] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1807,8 +1730,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 14903 7 ...
-The property [...] is wrong.
+Enter a request: > 25375 20 GAPFUL BUZZ SPY buzzz SQUARE
+The property [BUZZZ] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1823,8 +1746,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 25375 9 evens ODD SQUARE DUCK
-The property [EVENS] is wrong.
+Enter a request: > 19191 12 EVEN JUMPING SUNNY drake BUZZ
+The property [DRAKE] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1839,8 +1762,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 9104 12 SPY DUCK PALINDROMIC evens SQUARE
-The property [EVENS] is wrong.
+Enter a request: > 4347 11 EVEN drake
+The property [DRAKE] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1855,8 +1778,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 8321 17 gipful DUCK SQUARE SPY
-The property [GIPFUL] is wrong.
+Enter a request: > 22402 10 _odd_
+The property [_ODD_] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1871,8 +1794,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 6335 9 Boy ODD BUZZ
-The property [BOY] is wrong.
+Enter a request: > 23529 3 ODD drake
+The property [DRAKE] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1887,8 +1810,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 30977 1 BUZZ DUCK ~~ SPY
-The property [~~] is wrong.
+Enter a request: > 4291 17 SUNNY SQUARE evens SPY BUZZ
+The property [EVENS] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1903,8 +1826,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 13724 17 PALINDROMIC SUNNY JUMPING reverse BUZZ
-The property [REVERSE] is wrong.
+Enter a request: > 2295 18 242
+The property [242] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
@@ -1919,8 +1842,8 @@ Supported requests:
 - two natural numbers and properties to search for;
 - separate the parameters with one space;
 - enter 0 to exit
-Enter a request: > 13713 6 EVEN BUZZ _odd_ SPY ODD
-The property [_ODD_] is wrong.
+Enter a request: > 20299 7 DUCK gipful SQUARE
+The property [GIPFUL] is wrong.
 Available properties: [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING]
 Enter a request: > 0
 Goodbye!
